@@ -2,7 +2,7 @@
 The size of Data file is too big so data is fail to be uploaded.
 This project follows the paper by Jonathan Lewellen, (2015), “The cross section of expected stock returns”. 
 3 models are used to perform 1964-2021 monthly cross-sectional regressions of stock returns and Fama-MacBeth method using characteristics of a firm as the firm’s factor loadings or betas.
-Part 1: obtain the time series of each monthly cross-sectional regression estimates(risk premiums) for the entire data set in each model
+Part 1: obtain the time series of each monthly cross-sectional regression estimates(risk premiums) for the entire data set in each model.
 Part 2: compute the time series averages of the slope estimates and their standard errors. 
 Calculate t-test and determine if the slope average is significantly different from zero.
 Part 3: perform a prediction of following month’s return using model 3 only with all the characteristics and constant. 
